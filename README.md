@@ -1,1 +1,1 @@
-# Первая лабораторная работа по сетям 31-ПГ
+# Lab for network course, 31PG group
